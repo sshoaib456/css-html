@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>IOT</title>    
+    <style>
+        body{
+            color: rgb(255, 0, 0);
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Internet if Things</h1>
+    <h2>Internet if Things</h2>
+    <h3>Internet if Things</h3>
+    <h4>Internet if Things</h4>
+    <h5>Internet if Things</h5>
+    <h6>Internet if Things</h6>
+
+</body>
+</html>
